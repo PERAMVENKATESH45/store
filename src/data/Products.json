@@ -1,0 +1,57 @@
+[
+    {
+        "id" : 1,
+        "title" : "AC",
+        "price" : 250004,
+        "image" : "https://m.media-amazon.com/images/I/31hitKJRHBL._SY445_SX342_QL70_FMwebp_.jpg"
+    },
+
+    {
+        "id" : 2,
+        "title" : "Car",
+        "price" : 1500,
+        "image" : "https://rukminim2.flixcart.com/image/612/612/xif0q/remote-control-toy/l/b/k/famous-car-remote-control-3d-car-with-led-lights-chargeable-1-original-imagwwfyphzhvpmv.jpeg?q=70"
+    },
+
+    {
+        "id" : 3,
+        "title" : "Sandels",
+        "price" : 2000,
+        "image" : "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-sandal/v/z/f/5c-spider-sandals-blue-red-6c-hooh-now-comfort-in-fashion-original-imah2uwaj8jygsey.jpeg?q=70"
+    },
+
+    {
+        "id" : 4,
+        "title" : "Paintings",
+        "price" : 5000,
+        "image" : "https://rukminim2.flixcart.com/image/612/612/xif0q/wall-decoration/r/x/p/radha-krishna-paintings-for-wall-decoration-set-of-five-3d-original-imah4qzwhqrnuzn2.jpeg?q=70"
+    },
+    {
+        "id" : 1,
+        "title" : "AC",
+        "price" : 250004,
+        "image" : "https://m.media-amazon.com/images/I/31hitKJRHBL._SY445_SX342_QL70_FMwebp_.jpg"
+    },
+
+    {
+        "id" : 2,
+        "title" : "Car",
+        "price" : 1500,
+        "image" : "https://rukminim2.flixcart.com/image/612/612/xif0q/remote-control-toy/l/b/k/famous-car-remote-control-3d-car-with-led-lights-chargeable-1-original-imagwwfyphzhvpmv.jpeg?q=70"
+    },
+
+    {
+        "id" : 3,
+        "title" : "Sandels",
+        "price" : 2000,
+        "image" : "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-sandal/v/z/f/5c-spider-sandals-blue-red-6c-hooh-now-comfort-in-fashion-original-imah2uwaj8jygsey.jpeg?q=70"
+    },
+
+    {
+        "id" : 4,
+        "title" : "Paintings",
+        "price" : 5000,
+        "image" : "https://rukminim2.flixcart.com/image/612/612/xif0q/wall-decoration/r/x/p/radha-krishna-paintings-for-wall-decoration-set-of-five-3d-original-imah4qzwhqrnuzn2.jpeg?q=70"
+    }
+
+]
